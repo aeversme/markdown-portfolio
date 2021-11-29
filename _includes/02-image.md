@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![render of office workspace](https://github.com/aeversme/aeversme/blob/main/assets/office01.jpg?raw=true)

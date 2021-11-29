@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Skills:** _Python_, _AWS_, _SQL_, _C_, _Terraform_, _Linux_
+
+**Attributes:** _detail-oriented_, _self-starter_, _passionate about learning_
